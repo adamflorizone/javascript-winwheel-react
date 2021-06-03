@@ -5,8 +5,6 @@ Create spinning prize wheels using React with Winwheel.js
 ## Description
 Winwheel.js is a feature packed JavaScript library that allows you to easily create HTML5 canvas Winning / Prize Wheels, Pie graphs and other things using a highly configurable JavaScript class.
 
-Wheels can be animated using GreenSock's Animation Platform (TweenMax.js) which contain easing functions and many other powerful animation features.
-
 Winwheel.js Features Include:
 * Easy to use, highly configurable JavaScript classes.
 * Draw wheels using code generated segments or graphically rich images.
@@ -61,5 +59,5 @@ export default App;
 ```
 
 ## More examples
-See the /examples (https://github.com/adamflorizone/javascript-winwheel-react/tree/master/examples) folder for examples of some of the types of things you can create, to see these examples in action please see ... TBA
+See the /examples (https://github.com/adamflorizone/javascript-winwheel-react/tree/master/examples/) folder for examples of some of the types of things you can create
 
