@@ -1,0 +1,17 @@
+{
+  "name": "javascript-winwheel-react",
+  "version": "1.0.0",
+  "description": "Create spinning prize wheels using React with Winwheel.js",
+  "main": "src/winwheel-react.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "javascript-winwheel": "git+https://github.com/adamflorizone/javascript-winwheel.git"
+  }
+}
